@@ -430,9 +430,9 @@ So the community invented something better:
 ---
 
 # 🏠🔐 Enter ERC-7201 — The Safe Memory House System  
-*(Next chapter — already explained in detail)*
 
-ERC-7201 fixes all the problems EIP-1967 couldn’t:
+
+ERC-7201 fixes all the problems EIP-1967 couldn’t: 
 ```
 | Problem                 | EIP-1967 | ERC-7201 |
 |-------------------------|----------|----------|
@@ -449,6 +449,7 @@ EIP-1967 standardizes “where the brain lives.”
 ERC-7201 standardizes “where the memories live.”
 
 Now, upgradeable contracts are **truly safe**.
+We will going in-depth on ERC-7201 below! No worries I got you!
 
 ---
 
