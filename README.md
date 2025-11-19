@@ -72,7 +72,7 @@ It means:
 > “Use **my body and my memories**, but **run your code**.”
 
 The **proxy** is the body.  
-The **implementation** (TU1, TU2) is the brain.
+The **implementation** (TU1, TU2 - both are my UG contracts) is the brain.
 
 So:
 
