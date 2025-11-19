@@ -19,7 +19,7 @@
 
 This README is written so:
 
-- A **child can understand every concept**, and  
+- A **child can understand every concept** (Story mode), and  
 - A **smart-contract auditor can respect its correctness**, and  
 - **Future-you can instantly remember everything** even after months.
 
