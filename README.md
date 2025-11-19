@@ -456,7 +456,7 @@ We will going in-depth on ERC-7201 below! No worries I got you!
 
 # 🏠🔐 CHAPTER 5 — ERC-7201 (The Safe Memory House System)
 
-Upgradeable contracts only break for one reason:
+Upgradeable contracts mostly break for one reason:
 
 ❌ **storage collisions**
 
