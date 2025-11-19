@@ -34,7 +34,7 @@ This one file will teach you:
 - What UUPS is  
 - What EIP-1967 is  
 - What ERC-7201 storage namespaces are  
-- How TU1 and TU2 work  
+- How TU1 and TU2 work (my example UG contracts)
 - How upgrading works safely  
 - How downgrading breaks  
 - How to test upgradeability  
