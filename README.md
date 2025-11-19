@@ -19,7 +19,7 @@
 
 This README is written so:
 
-- A **child can understand every concept** (Story mode), and  
+- A ** 8 year old child can too taste and understand  every concept through the story mode** , and  
 - A **smart-contract auditor can respect its correctness**, and  
 - **Future-you can instantly remember everything** even after months.
 
