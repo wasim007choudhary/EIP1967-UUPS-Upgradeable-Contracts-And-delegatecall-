@@ -22,6 +22,7 @@ This README is written so:
 - A **8 year old child can too taste and understand  every concept through the story mode** , and  
 - A **smart-contract auditor can respect its correctness**, and  
 - **Future-you can instantly remember everything** even after months.
+- **After the concepts, we will touch the added contracts from the repo and understand it better** hence, no stone unturned!
 
 This one file will teach you:
 
